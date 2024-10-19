@@ -560,6 +560,9 @@ aside{
 @media screen and (max-width: 470px){
     div.profile{display: none;}
     .main-content{
+        main>.projects{
+            padding: 0 .3rem;
+        }
         header{
             padding: .5rem .2rem;
 
